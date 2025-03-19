@@ -17,7 +17,7 @@ async function getSwapRoute(inputMint, outputMint, amount) {
 }
 
 getSwapRoute(
-    "PANDA_MINT_ADDRESS", // Your Panda Token
+    "PANDA_MINT_ADDRESS",
     "So11111111111111111111111111111111111111112", // SOL
     1000000000 // Amount in smallest unit
 );
